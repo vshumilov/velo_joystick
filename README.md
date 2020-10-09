@@ -1,4 +1,4 @@
-# velo_joystick
+# velo_joystick from arduino
 DIY joystick from bicycle for kids<br>
 
 Watch demo on YouTube - https://www.youtube.com/watch?v=ZO_shl26tik<br>
